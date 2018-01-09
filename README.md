@@ -15,3 +15,5 @@
 - 
 ###### }
 ## testing emmmmmm
+git branch & git rebase 作用 是不同版本之间自由切换
+git 的分支管理
