@@ -14,6 +14,10 @@
 - 符号语法要加空格才生效
 - 
 ###### }
+<<<<<<< HEAD
 ## testing emmmmmm
 git branch & git rebase 作用 是不同版本之间自由切换
 git 的分支管理
+=======
+## testing
+>>>>>>> parent of 4fde6e9... 修改行
